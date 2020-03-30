@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+#include<stdlib.h>
 int main()
 {
  int a[10],b[10],x[10];
