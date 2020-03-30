@@ -7,6 +7,8 @@ int main()
  int i,j,smallest,count=0,time,n;
  double avg=0,tt=0,end;
  //clrscr();
+printf("**********************************************WELCOME********************************************************\n");
+
  printf("\nEnter the number of Processes: ");
  scanf("%d",&n);
  for(i=0;i<n;i++)
